@@ -447,6 +447,12 @@ hr {
   margin-bottom: 0;
 }
 
+.header-wrapper {
+  background: #fff;
+  max-width: 920px;
+  margin: 0 auto;
+}
+
 .contentColumn {
   background: #fff;
   max-width: 920px;
