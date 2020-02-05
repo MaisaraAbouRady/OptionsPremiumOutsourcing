@@ -1,5 +1,5 @@
-# OptionsPremiumOutsourcing
-Technical Interview Task
+# Options Premium Outsourcing
+## Technical Interview Task
 
 ### What is this repo?
 
