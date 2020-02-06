@@ -15,3 +15,14 @@ The actual website can be found on: http://opo.epizy.com/.
 ### Screen-size Compatibility
 
 All page elements are already responsive as the `contentColumn` `div` has a maximum width and is included in a relatively positioned `wrapper` `div`, except for the logo. The dimensions of the logo are fixed, which is not quite convenient for small screens.
+
+### PageSpeed Insights
+
+- All photos have been optimized and compressed.
+- Tested the efficiency of `rocket-loader` script:
+
+> |         Parameter         | With | Without |
+> |:-------------------------:|:----:|:-------:|
+> | First Contentful Painting | 0.8s |   1.0s  |
+> |        Speed Index        | 0.9s |   1.6s  | 
+
