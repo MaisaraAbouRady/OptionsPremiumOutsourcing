@@ -983,7 +983,7 @@ li {
 @media only screen and (max-width: 680px) {
 
   #logo {
-    max-width: 25%;
+    max-width: 25vw;
   }
 
   a.fbtn {
@@ -1046,7 +1046,7 @@ li {
 @media only screen and (max-width: 580px) {
 
   #logo {
-    max-width: 25%;
+    max-width: 25vw;
   }
 
   .zip .right {
