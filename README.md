@@ -11,6 +11,7 @@ The actual website can be found on: http://options.epizy.com/
 
 - The hosting service doesn't support CI to automate server deployemnt in sync with github merges.
 - The original web page to clone was not based on a responsive web design grid or technique. In order to keep the task consistent, I've only utilized CSS Media Queries to add **some** responsiveness and screen-size compatibility. However, that's not the best responsiveness we can get.
+- The logo has been positioned at the left, aliging with the width of the `contentColumn` `div`, following the same standards applied on the original certainlyhome.com website.
 
 ### Screen-size Compatibility
 
